@@ -13,7 +13,8 @@ A modern, feature-rich Retrieval-Augmented Generation (RAG) question-answering s
 Experience RAG Q&A System in action 👉  [LiveDemo](https://questionandanswerchatbot.streamlit.app/)
 
 ## Homepage
-![Demo Screenshot](demo_screenshot.png)
+![Demo Screenshot]<img width="1911" height="780" alt="demo_screenshot" src="https://github.com/user-attachments/assets/c7f1fe08-2818-4c00-b70f-3bd2e8ef0801" />
+
 
 ## 🌟 Features
 
