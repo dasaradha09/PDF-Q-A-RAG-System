@@ -262,7 +262,7 @@ langchain-google-genai
 
 ## 📞 Support
 
-- **Email**: ramakrishnasankavaram436@gmail.com
+- **Email**: sana000dasaradha@gmail.com
 
 
 ## 🙏 Acknowledgments
