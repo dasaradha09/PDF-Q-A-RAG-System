@@ -1,5 +1,5 @@
-streamlit
 pysqlite3-binary
+streamlit
 google-generativeai
 python-dotenv
 PyPDF2
