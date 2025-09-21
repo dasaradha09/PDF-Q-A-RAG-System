@@ -1,4 +1,4 @@
-# 🤖 Intelligent RAG Q&A System 
+# 🤖 PDF Q&A RAG System 
 
 A modern, feature-rich Retrieval-Augmented Generation (RAG) question-answering system built with **Streamlit**, **Google Gemini AI**, and **ChromaDB**. Upload your documents and get instant, accurate AI-powered answers with source attribution.
 
